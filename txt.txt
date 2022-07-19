@@ -1,0 +1,1 @@
+{"chroot64":"https://github.com/Shesui/StrykerCoreModed/releases/download/core/Stryker2R.tar.gz","chroot32":"https://github.com/Shesui/StrykerCoreModed/releases/download/2.0R/Stryker2R-32bit.tar.gz","isfix":false,"name":"2.1 Release","changelog":"See git page","srcapk":"https://github.com/Shesui/StrykerCoreModed/releases","version":30}
